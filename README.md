@@ -1,4 +1,4 @@
-#  About Me 
+#  ABOUT ME
 
 I am Siddharth Dudugu, a dedicated data science professional with a profound passion for data-driven solutions and insights. With a rich tapestry of experiences across various roles, I have honed my skills in Python, data engineering, business intelligence, data analysis, machine learning, and project management. My journey in data science is marked by a commitment to leveraging technology to solve complex problems and drive impactful results.
 
@@ -14,7 +14,7 @@ At Innobrand Media & Cmmunicaions, I enhanced television and digital media ratin
 
 In addition to my professional and academic pursuits, I have contributed to the field through my publication "A Survey on Text Mining" in IEEE. I volunteer with the Dharma Bharati Mission and as a facilitator at AIESEC, conducting events to raise awareness of the UN’s 17 Sustainable Development Goals. As an Operations Executive at AIESEC, I utilized SQL and Tableau for data analysis, created dashboards, and conducted A/B testing. I have received honors such as the Doris Zimmerman Endowed Scholarship and the Hamilton Scholarship from Drexel University.
 
-# Education
+# EDUCATION
 
 ## Drexel University - Master's of Science in Data Science
 
@@ -46,7 +46,7 @@ GPA: 3.40/4
 Data Structure & Algorithms, Software Engineering, Database Management Systems, Full Stack Development, Systems Design, Architecture and Modeling, Computer Graphics, Digital Signal Processing
 
 
-# Professional Experience
+# PROFESSIONAL EXPERIENCE
 
 ## Map Collective Inc. - Philadelphia, Pennsylvania, USA 
 ### Data Research Analyst · Part-Time · Remote                                                                      
@@ -75,7 +75,7 @@ April 2019 - July 2022
 - Improved market segmentation and revenue generation by implementing machine learning algorithms to segment consumers across 5 major urban regions resulting in a 12% revenue increase and a 35% reduction in data errors through optimized demand and incentive processes.
 
 
-# Certifications 
+# CERTIFICATIONS
 
 ### Boston Consulting Group (BCG) - Data Science Job Simulation
 Issued Feb 2024 · Credential ID kBeMPqpJjsyr5YPTn
@@ -102,7 +102,7 @@ Issued Feb 2024 · Credential ID 02bcff10404db6b44c4e57982a197189653580cdd4707d0
 - Link: https://www.linkedin.com/learning/certificates/02bcff10404db6b44c4e57982a197189653580cdd4707d0016fec87d56f5c397
 
 
-# Other Experiences
+# OTHER EXPERIENCE
 
 ## Drexel University - Philadelphia, Pennsylvania, USA
 ### Intramural Official & Program Assistant · Part-Time · On-Campus
@@ -137,7 +137,7 @@ January 2019 - December 2019
 
 
 
-# Honors & Awards
+# HONORS & aWARDS
 ### - Doris Zimmerman Endowed Scholarship
 Issued by Drexel University · Jan 2023
 
@@ -145,7 +145,7 @@ Issued by Drexel University · Jan 2023
 Issued by Drexel University · Jan 2023
 
 
-# Technical Skills
+# TECHNICAL SKILLS
 ### Languages
 
  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square 'Python')
